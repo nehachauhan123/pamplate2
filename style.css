@@ -1,0 +1,87 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container1{
+    background-color:black;
+    height: 700px;
+    width: 800px;
+    /* margin-top: 50px;
+    margin-left: 50px; */
+    display: flex;
+    justify-content: center;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+#box1 img{
+height: 650px;
+width: 300px;
+background-color: aliceblue;
+margin-top: 30px;
+
+}
+#box2{
+    height: 650px;
+    width: 450px;
+    background-color: rgb(1, 11, 19);
+    margin-top: 30px;
+    margin-left: 20px;
+    }
+
+    #sub1{
+        width: 450px;
+        height: 200px;
+        background-color: yellow;
+    }
+    #sub2{
+        width: 450px;
+        height: 200px;
+        /* background-color: rgb(16, 2, 49); */
+        /* background-image: url(html/images/nehapic.jpg); */
+        margin-top: 20px;
+        display: flex;
+    }
+    #sub3{
+        width: 450px;
+        height: 200px;
+        background-color: rgb(239, 231, 234);
+        margin-top: 20px;
+    }
+       /* card styling */
+       #card1 img{
+        height: 200px;
+        width: 210px;
+        background-color: rgb(89, 89, 190);
+        
+       }
+       #card2 img{
+        height: 200px;
+        width: 220px;
+        background-color: rgb(238, 238, 249);
+        margin-left: 20px;
+       }
+       h2{
+        margin: 20px 30px;
+         
+       }
+       button{
+        width: 400px;
+        margin-top: 50px;
+        height: 40px;
+        margin-left: 20px;
+        background-color: orange;
+        color: white;
+        border: none;
+        border-radius: 10%;
+       }
+       input{
+        margin-top: 20px;
+        width: 170px;
+        height: 30px;
+        border-radius: 10%;
+        border: none;
+       }
+
+      
+       
